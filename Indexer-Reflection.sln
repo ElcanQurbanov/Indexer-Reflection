@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexer-Reflection", "Indexer-Reflection\Indexer-Reflection.csproj", "{A579D73A-C965-4759-8363-DC64C53935BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLayer", "ServiceLayer\ServiceLayer.csproj", "{14A59F53-A9CE-4211-9194-F3260A146826}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A579D73A-C965-4759-8363-DC64C53935BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A579D73A-C965-4759-8363-DC64C53935BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A579D73A-C965-4759-8363-DC64C53935BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A579D73A-C965-4759-8363-DC64C53935BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14A59F53-A9CE-4211-9194-F3260A146826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14A59F53-A9CE-4211-9194-F3260A146826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14A59F53-A9CE-4211-9194-F3260A146826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14A59F53-A9CE-4211-9194-F3260A146826}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E08250B-1516-4B7A-91EA-2C4A604EF5A4}
+	EndGlobalSection
+EndGlobal
